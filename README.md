@@ -14,7 +14,7 @@ This a Todo app built with reactjs and react hooks [https://reactjs.org/]
 
 # Screenshots
 
-## Main Page 
+## Todo List 
 ![screencapture-localhost-3000-2019-03-24-21_31_53](https://user-images.githubusercontent.com/11092669/54895582-74dc8b80-4e7d-11e9-9b68-162569a5fecf.png)
 
 
